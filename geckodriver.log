@@ -1,0 +1,10 @@
+1604789068681	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile.m0J3YbStu61O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604789071123	Marionette	INFO	Listening on port 53533
+1604789071408	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604789254429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\chris\\AppData\\Local\\Temp\\rust_mozprofile.icgmBD7OKaoU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604789257079	Marionette	INFO	Listening on port 53771
+1604789257146	Marionette	WARN	TLS certificate errors will be ignored for this session
